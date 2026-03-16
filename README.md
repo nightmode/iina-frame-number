@@ -10,13 +10,15 @@ An [IINA](https://github.com/iina/iina) plugin that can show the estimated frame
 
 ## Install
 
-Open `IINA` go to `Plugins` and then `Manage Plugins`.
+Open `IINA` go to `Plugin` and then `Manage Plugins`.
 
-Click the `Install from GitHub...` button, enter `nightmode/iina-frame-number` as the repository and then click `Install`.
+Click `Install from GitHub`, enter `nightmode/iina-frame-number` as the repository, and then click `Install`.
+
+Use the `Reload All Plugins` command within the IINA `Plugin` menu to enable the plugin.
 
 ## Usage
 
-Once this plugin is installed and enabled, use the `Plugin` menu to show or hide the frame number overlay.
+Once the plugin is installed and enabled, use the IINA `Plugin` menu to show or hide the frame number overlay.
 
 If the overlay is active, you can optionally click on the overlay to copy the currently displayed frame number to your clipboard.
 
