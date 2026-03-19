@@ -27,7 +27,7 @@ event.on("iina.window-loaded", () => {
     overlay.setClickable(true)
 
     timer = setInterval(() => {
-        const frameNumber = mpv.getNumber("estimated-frame-number")
+        const frameNumber = mpv.getNumber("estimated-frame-number") + 1
 
         overlay.postMessage("progress-update", { frameNumber })
     }, 100)
