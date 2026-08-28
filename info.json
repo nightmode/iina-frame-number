@@ -1,13 +1,11 @@
 {
     "allowedDomains": ["*"],
     "author": {
-        "name": "Kai Nightmode"
+        "name": "..."
     },
     "description": "Show the estimated frame number as a overlay in the bottom right corner of a video. Click the overlay to copy the current frame number to your clipboard.",
     "entry": "background.js",
-    "ghRepo": "nightmode/iina-frame-number",
-    "ghVersion": 2,
-    "identifier": "fm.nightmode.iina-frame-number",
+    "identifier": "plugin.iina-frame-number",
     "name": "Frame Number",
     "permissions": [
         "video-overlay"

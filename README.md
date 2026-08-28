@@ -10,11 +10,11 @@ An [IINA](https://github.com/iina/iina) plugin that can show the estimated frame
 
 ## Install
 
-Open `IINA` go to `Plugin` and then `Manage Plugins`.
+Create a zip file that includes all files and folders in this project.
 
-Click `Install from GitHub`, enter `nightmode/iina-frame-number` as the repository, and then click `Install`.
+Rename the extension of the file from `.zip` to `.iinaplgz`.
 
-Use the `Reload All Plugins` command within the IINA `Plugin` menu to enable the plugin.
+Open the innaplgz file and IINA should automatically install the plugin.
 
 ## Usage
 
