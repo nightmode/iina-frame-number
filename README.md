@@ -1,3 +1,5 @@
+**This software is no longer being tested or updated.**
+
 # IINA Frame Number
 
 An [IINA](https://github.com/iina/iina) plugin that can show the estimated frame number as a overlay in the bottom right corner of a video.
